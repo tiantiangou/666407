@@ -3,7 +3,7 @@
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=GBK">
     <meta content="text/html; charset=gb2312">
     <meta name="viewport" content="width=640,maximum-scale=4,user-scalable=no">
-    <title>882448.com¹º²ÊÖĞĞÄÍøÂç°²È«ÖĞĞÄ-Achievements classic</title>
+    <title>882448.comè´­å½©ä¸­å¿ƒç½‘ç»œå®‰å…¨ä¸­å¿ƒ-Achievements classic</title>
     <style type="text/css">
         div{margin: 200px auto; text-align: center; font-size: 24px; line-height: 80px}
         span{color: red}
@@ -11,11 +11,11 @@
     </style>
 </head>
 <body>
-<div>¸ĞĞ»Äú·ÃÎÊ<span id="now">882448.com</span>£¬ÇëÀÎ¼ÇÎÒÃÇµÄÓòÃû<br><span id="new">¹º²ÊÖĞĞÄ¡ï³É¾Í¾­µä</span><br><span id="time">3</span>Ãëºó½øÈëÍøÕ¾</div>
+<div>æ„Ÿè°¢æ‚¨è®¿é—®<span id="now">882448.com</span>ï¼Œè¯·ç‰¢è®°æˆ‘ä»¬çš„åŸŸå<br><span id="new">è´­å½©ä¸­å¿ƒâ˜…æˆå°±ç»å…¸</span><br><span id="time">3</span>ç§’åè¿›å…¥ç½‘ç«™</div>
 <script type="text/javascript">
     document.getElementById('now').innerHTML = document.domain;
-    document.title = document.domain+'¹º²ÊÖĞĞÄÍøÂç°²È«ÖĞĞÄ-Achievements classic';
-    var newdomain = '¹º²ÊÖĞĞÄ¡ï³É¾Í¾­µä';
+    document.title = document.domain+'è´­å½©ä¸­å¿ƒç½‘ç»œå®‰å…¨ä¸­å¿ƒ-Achievements classic';
+    var newdomain = 'è´­å½©ä¸­å¿ƒâ˜…æˆå°±ç»å…¸';
     document.getElementById('new').innerHTML = newdomain;
     var times = setInterval(function () {
         var time = document.getElementById('time').innerHTML;
