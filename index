@@ -21,7 +21,7 @@
         var time = document.getElementById('time').innerHTML;
         if (time <= 1){
             clearInterval(times);
-            window.location = 'index.html';
+            window.location = 'daohang.html';
         }else{
             document.getElementById('time').innerHTML = time-1;
         }
